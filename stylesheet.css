@@ -1,0 +1,128 @@
+body {
+    margin:0;
+}
+header {
+    background-image: url(./img/fond.jpg);
+    background-size: cover;
+    background-position:center center;
+    height: 550px;
+    text-align: center;
+    
+   
+}
+
+
+.menu {
+    font-size: 1.5em;
+    font-family: Kaushan Script;
+    font-family: 'Kaushan Script', cursive;
+}
+.menu a {
+    display: inline-block;
+    color:white;
+    text-decoration: none;
+    padding: 20px 50px;
+} 
+ nav{
+    background-color:rgb(227, 211, 238)
+ }
+header span {
+    display: block;
+}
+.promo{
+    font-size: 2em;
+    font-family:'Kaushan Script', cursive;
+    height: 30px;
+    padding: 10px;
+    background-color: rgb(230, 206, 232);
+}
+.presentation{
+    height: 30px;
+    font-size: 2em;
+    font-family:'Kaushan Script', cursive;
+    padding: 40px;
+}
+footer img{
+    width:80px;
+    height:80px;
+}
+footer{
+    background-color: rgb(139, 118, 209);
+}
+/* main{
+    width: 90%;
+    margin: 0 auto;
+} */
+.formulaire {
+    width: 90%;
+    margin: 0 auto;
+}
+thead {
+    color: white;
+    font-family:"Kaushan Script";
+    text-align: left;
+    font-size: 1.6;
+    background-color: rgb(196, 169, 222);
+    height: 50px;
+}
+
+.tableau1 h1{
+    font-family: "Kaushan Script";
+    text-align: center;
+    font-size: 2em;
+
+}
+
+.tableau1{
+    padding: 20px 0;
+}
+
+.tableau1 table{
+    border-collapse:collapse;
+    width: 90%;
+    height: 200px;
+    margin: 0 auto;
+}
+
+
+tr{
+    border: 1px solid black;
+    font-family: "Playfair Display";   
+}
+th{
+    border: 1px solid black;
+
+    font-family: "Kaushan Script";
+}
+
+
+.tableau2 h1{
+    font-family: 'Playfair Display', cursive;
+    text-align: center;
+    font-size: 2em;
+}
+.tableau2 table{
+    border-collapse:collapse;
+    width: 90%;
+    margin: 0 auto;
+}
+.tableau2{
+     padding: 20px 0; 
+}
+
+input[type=submit] {
+width: 150px;
+padding: 5px;
+text-align: center;
+
+}
+form{
+    text-align: center;
+}
+
+.form4 form{
+    text-align: left;
+}
+.form5{
+    text-align: center;
+}
